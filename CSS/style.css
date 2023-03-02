@@ -1,7 +1,7 @@
 body {
   font-family: 'Zen Maru Gothic', sans-serif;
   color: #555;
-  background-color: rgb(255, 252, 238);
+  background-color: rgb(255, 254, 248);
 }
 
 /* header */
@@ -63,9 +63,10 @@ body {
 }
 
 #site-main h2 {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   letter-spacing: 0.4rem;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 60px;
 }
 
 /* footer */
