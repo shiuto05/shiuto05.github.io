@@ -1,0 +1,21 @@
+/* header */
+#site-header {
+  display: flex;
+}
+#site-header > :first-child {
+  margin-right: auto;
+}
+
+#nav_bar {
+  display: flex;
+  list-style: none;
+}
+
+#nav_bar li {
+  display: flex;
+}
+
+
+/* main */
+
+/* footer */
