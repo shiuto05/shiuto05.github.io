@@ -9,7 +9,7 @@ body {
   display: flex;
   height: 96px;
   width: 100%;
-  background-color: rgb(219, 183, 141);
+  background-color: rgb(235, 197, 155);
   padding: 20px;
 }
 
@@ -59,6 +59,7 @@ body {
 #site-main {
   line-height: 60px;
   padding-top: 40px;
+  padding-bottom: 40px;
   text-align: center;
 }
 
@@ -70,3 +71,37 @@ body {
 }
 
 /* footer */
+#site-footer {
+  display: flex;
+  height: 240px;
+  background-color: rgb(209, 208, 204);
+}
+#site-footer h2 {
+  margin-right: auto;
+}
+
+#footer-nav-bar {
+  list-style: none;
+  padding: 30px;
+}
+#footer-logo { 
+  padding-left: 30px; 
+  letter-spacing: 0.3rem;
+  line-height: 240px;
+
+}
+#footer-nav-bar li {
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+
+#footer-nav-bar li a {
+  text-decoration: none;
+  color: #555;
+}
+
+#mail {
+  height: 30px;
+  background-color: rgb(175, 174, 173);
+  text-align: center;
+}

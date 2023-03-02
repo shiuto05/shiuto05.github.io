@@ -1,7 +1,7 @@
 body {
   font-family: 'Zen Maru Gothic', sans-serif;
   color: #555;
-  background-color: rgb(255, 254, 248);
+  background-color: rgb(255, 252, 238);
 }
 
 /* header */
@@ -9,7 +9,7 @@ body {
   display: flex;
   height: 96px;
   width: 100%;
-  background-color: rgb(219, 183, 141);
+  background-color: rgb(235, 197, 155);
   padding: 20px;
 }
 
